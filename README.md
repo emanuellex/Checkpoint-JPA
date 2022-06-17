@@ -13,7 +13,7 @@ Tabela de conteúdos
 ---
 ## 💻 Sobre o projeto
 
-Esse projeto foi desenvolvido para avaliação na disciplina Enterprise Application Development da faculdade Fiap. Consiste na modelagem de 5 tabelas, ou seja, criação de 5 entidades. As entidades são implementas em classes java, seguindo os padrões de projetos Singleton e Dao Generico. Por fim, varias classes com método main para realizar o Crud de todas as tabelas. 
+Esse projeto foi desenvolvido para avaliação na disciplina Enterprise Application Development da faculdade Fiap. Consiste na modelagem de 5 tabelas, ou seja, criação de 5 entidades. As entidades são implementas em classes java, seguindo os padrões de projetos Singleton e Dao Generico. Por fim, classes com método main para realizar o Crud de todas as tabelas. 
 
 ---
 ### Pré-requisitos
